@@ -1,2 +1,2 @@
 def solve():
-    pass
+    return 42
