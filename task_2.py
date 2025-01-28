@@ -1,5 +1,5 @@
 def solve():
-    n = 100500
+    n = 42
     return n
 
 solve()
